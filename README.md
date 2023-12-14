@@ -8,12 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=lazy-forever&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
-  </picture>
 
 <!--
 **lazy-forever/lazy-forever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +28,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cyber security and system security
 - 📫 How to reach me: 2606090126@qq.com
 - 💬 Welcome to my blog: https://blog.lazyforever.top
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
+</picture>
+
 <table>
   <tr>
     <td><img src='https://github-readme-stats.vercel.app/api?username=lazy-forever&hide=issues&show_icons=true&theme=tokyonight'>
@@ -42,3 +44,4 @@ Here are some ideas to get you started:
     </td>
    </tr>
 </table>
+
