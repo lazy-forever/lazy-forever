@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi👋
-- 🔭 I’m currently studying in Nankai University
-- 🌱 I’m currently learning cyber security and system security
+- 🔭 I'm currently studying in Nankai University
+- 🌱 I'm currently learning cyber security and system security
 - 📫 How to reach me: 2606090126@qq.com
 - 💬 Welcome to my blog: https://blog.lazyforever.top
 
