@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Hi👋
 - 🔭 I'm currently studying in Nankai University
 - 🌱 I'm currently learning cyber security and system security
-- 📫 How to reach me: 2606090126@qq.com
+- 📫 How to reach me: lazy_forever@qq.com
 - 💬 Welcome to my blog: https://blog.lazyforever.top
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
