@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><img src='https://github-readme-stats.vercel.app/api?username=lazy-forever&hide=issues&show_icons=true&theme=tokyonight'>
+    <td><img src='https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=tokyonight'>
     </td>
     <td><img src='https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=lazy-forever&layout=compact&theme=tokyonight'>
     </td>
