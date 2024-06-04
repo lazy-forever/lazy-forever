@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 ### Hi👋
 - 🔭 I'm currently studying in Nankai University
-- 🌱 I'm currently learning cyber security and system security
+- 🌱 I'm currently learning cyber security and system security, and interested in web3 security.
 - 📫 How to reach me: lazy_forever@qq.com
 - 💬 Welcome to my blog: https://blog.lazyforever.top
 
@@ -36,12 +36,5 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table>
-  <tr>
-    <td><img src='https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=tokyonight'>
-    </td>
-    <td><img src='https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=lazy-forever&layout=compact&theme=tokyonight'>
-    </td>
-   </tr>
-</table>
+<img src='https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=tokyonight'>
 
