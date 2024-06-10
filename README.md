@@ -35,6 +35,11 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazy-forever/lazy-forever/output/github-contribution-grid-snake.svg">
 </picture>
-
+<!--
 <img src='https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=tokyonight'>
-
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=buefy">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=buefy">
+</picture>
