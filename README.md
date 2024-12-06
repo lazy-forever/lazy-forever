@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 ### Hi👋
 - 🔭 I'm currently studying in Nankai University
-- 🌱 I'm currently learning cyber security and system security, and interested in web3 security
+- 🌱 I'm currently learning cyber security and system security, and interested in redteam pentest and web3 security
 - 📫 How to reach me: lazy_forever@qq.com
 - 💬 Welcome to my blog: https://blog.lazyforever.top
 
