@@ -53,3 +53,6 @@ Here are some ideas to get you started:
 | Alipay | Wechat |
 | :----: | :----: |
 | <img src="./assets/alipay.jpg" width="180">  | <img src="./assets/wechatpay.jpg" width="200" > |
+
+- ETH: 0x2d4aFAdED54d2F10be037e5D4C76fecB7aF35C75
+- BTC: bc1p4s2lw87gred4y7d0hcslkvfvu6dxwplawf9dve6yzlz83turp4qq6wtp0t
