@@ -43,3 +43,13 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=buefy">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lazy-forever&show_icons=true&theme=buefy">
 </picture>
+
+
+### Support me
+
+<!-- 支付宝：./assets/alipay.jpg  -->
+<!-- 微信：./assets/wechatpay.jpg  -->
+
+| Alipay | Wechat |
+| :----: | :----: |
+| <img src="./assets/alipay.jpg" width="180">  | <img src="./assets/wechatpay.jpg" width="200" > |
