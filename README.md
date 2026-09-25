@@ -2,7 +2,7 @@
 
  <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://space.bilibili.com/490568380/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- <a href="https://space.bilibili.com/490568380/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
     <a href="https://gitee.com/lazy_forever"><img src="https://img.shields.io/badge/gitee-码云-C61B21" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lazy-forever&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi👋
-- 🔭 I'm currently studying in Nankai University
-- 🌱 I'm currently learning cyber security and system security, and interested in ctf, redteam pentest and web3 security
+- 🔭 I graduated from Nankai University in 2026
+- 💼 Previously interned at [@baidu](https://github.com/baidu) and [@antgroup](https://github.com/antgroup), now Security Engineer at [@Tencent](https://github.com/Tencent) [@weixin](https://github.com/weixin)
+- 🌱 Interested in cyber security, system security, CTF, redteam pentest, web3 security, and investing / personal finance
 - 📫 How to reach me: lazy_forever@qq.com
-- 💬 Welcome to my blog: https://blog.lazyforever.top
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
